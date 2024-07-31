@@ -2,7 +2,7 @@
 
 ## Sneak Peak
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpeg)
 
 ## Prerequisites
 
